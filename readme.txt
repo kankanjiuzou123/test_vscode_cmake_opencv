@@ -1,0 +1,1 @@
+测试ubuntu下opencv camke
