@@ -1,1 +1,1 @@
-测试ubuntu下opencv camke
+测试ubuntu下opencv cmake
