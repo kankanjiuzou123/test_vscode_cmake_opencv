@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "opencv_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-opencv_test-Debug-e8c350d7e80422d2cd76.json",
+					"jsonFile" : "target-opencv_test-Debug-17ef903fb42752b9f95d.json",
 					"name" : "opencv_test",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/ros/project/opencv/test/build",
-		"source" : "/home/ros/project/opencv/test"
+		"build" : "/home/ros/test_vscode_cmake_opencv/build",
+		"source" : "/home/ros/test_vscode_cmake_opencv"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }

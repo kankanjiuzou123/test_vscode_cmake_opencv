@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/ros/project/opencv/test/bin/opencv_test"
-  "/home/ros/project/opencv/test/bin/opencv_test.pdb"
+  "/home/ros/test_vscode_cmake_opencv/bin/opencv_test"
+  "/home/ros/test_vscode_cmake_opencv/bin/opencv_test.pdb"
   "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o"
   "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o.d"
 )

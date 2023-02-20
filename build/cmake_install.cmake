@@ -1,4 +1,4 @@
-# Install script for directory: /home/ros/project/opencv/test
+# Install script for directory: /home/ros/test_vscode_cmake_opencv
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ros/project/opencv/test/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ros/test_vscode_cmake_opencv/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

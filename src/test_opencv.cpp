@@ -9,7 +9,7 @@ using namespace cv;
 int main()
 {
     Mat image;
-    image = imread("/home/ros/project/opencv/test/src/lena.jpg");
+    image = imread("/home/ros/test_vscode_cmake_opencv/src/lena.jpg");
 
     imshow("test",image);
     waitKey(0);

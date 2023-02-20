@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ros/project/opencv/test/src/test_opencv.cpp" "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o" "gcc" "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o.d"
+  "/home/ros/test_vscode_cmake_opencv/src/test_opencv.cpp" "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o" "gcc" "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
