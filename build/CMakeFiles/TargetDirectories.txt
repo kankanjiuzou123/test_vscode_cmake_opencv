@@ -1,3 +1,0 @@
-/home/ros/test_vscode_cmake_opencv/build/CMakeFiles/opencv_test.dir
-/home/ros/test_vscode_cmake_opencv/build/CMakeFiles/edit_cache.dir
-/home/ros/test_vscode_cmake_opencv/build/CMakeFiles/rebuild_cache.dir

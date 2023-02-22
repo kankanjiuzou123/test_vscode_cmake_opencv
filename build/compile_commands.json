@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ros/test_vscode_cmake_opencv/build",
-  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o -c /home/ros/test_vscode_cmake_opencv/src/test_opencv.cpp",
-  "file": "/home/ros/test_vscode_cmake_opencv/src/test_opencv.cpp",
-  "output": "CMakeFiles/opencv_test.dir/src/test_opencv.cpp.o"
-}
-]
